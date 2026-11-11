@@ -12,7 +12,7 @@ Step 1.2
 👉 [තිරයේ කරන්න]: Mouse cursor එක Dashboard එක හරහා ගෙනගොස් Navigation Bar එකේ ඇති Tabs 5 (Decorator, Composite, Chain of Responsibility, Flyweight, Interpreter) එකින් එක පෙන්වන්න.
 🗣️ [කටින් කියන්න]:
 
-"For this project, I have engineered SmartCity360—an enterprise-grade municipal IoT and urban governance platform developed with Java 17 and Spring Boot. Modern smart cities face immense challenges in telemetry security, deep administrative hierarchies, rapid grievance resolution, massive IoT memory footprints, and dynamic policy enforcement."
+"For this project, I have engineered SmartCity360—an (ත්‍රි හන්ඩන්ඩ් සික්ස්ටි) enterprise-grade municipal IoT and urban governance platform developed with Java 17 and Spring Boot. Modern smart cities face immense challenges in telemetry security, deep administrative hierarchies, rapid grievance resolution, massive IoT memory footprints, and dynamic policy enforcement."
 
 Step 1.3
 
@@ -68,7 +68,7 @@ Step 2.6
 
 "In the Java source code, DataStreamDecorator holds a polymorphic reference to DataStream. Each concrete decorator executes its specific task in the readData pipeline before delegating down the chain, allowing any combination of security filters without subclass explosion."
 
-📌 SECTION 3: Part B – Composite Pattern (Municipal Hierarchy) (3:45 – 6:00)
+📌 SECTION 3: Part B – Composite Pattern කොම්පසිට් (Municipal Hierarchy) (3:45 – 6:00)
 Step 3.1
 
 👉 [තිරයේ කරන්න]: Browser එකට නැවත පැමිණ Navigation Bar එකේ "Municipal Hierarchy (Composite)" tab එක click කරන්න.
@@ -118,7 +118,7 @@ Step 4.1
 👉 [තිරයේ කරන්න]: Browser එකේ "Citizen Grievances (Chain of Responsibility)" tab එක click කරන්න.
 🗣️ [කටින් කියන්න]:
 
-"Moving on to Part C: The Chain of Responsibility Pattern, which powers our Citizen Grievance Triage Subsystem. In city governance, public complaints range from minor local noise to severe infrastructure emergencies, requiring automated routing without tightly coupling senders to specific municipal departments."
+"Moving on to Part C: The Chain of Responsibility Pattern, which powers our Citizen Grievance ග්‍රීවන්සස් Triage Subsystem. In city governance, public complaints range from minor local noise to severe infrastructure emergencies, requiring automated routing without tightly coupling senders to specific municipal departments."
 
 Step 4.2
 
@@ -210,7 +210,7 @@ Step 5.5
 
 "Looking at StreetLightFactory, it utilizes a thread-safe ConcurrentHashMap cache. If a requested lamp type already exists, it is reused immediately. This guarantees that our municipal IoT infrastructure can scale to millions of connected devices effortlessly."
 
-📌 SECTION 6: Part E – Interpreter Pattern (City Policy DSL) (10:00 – 11:45)
+📌 SECTION 6: Part E – Interpreter ඉන්ටර් ප්‍රිටර් Pattern (City Policy DSL) (10:00 – 11:45)
 Step 6.1
 
 👉 [තිරයේ කරන්න]: Browser එකේ "City Policies (Interpreter)" tab එක click කරන්න.
